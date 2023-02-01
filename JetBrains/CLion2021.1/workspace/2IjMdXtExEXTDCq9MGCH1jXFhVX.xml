@@ -1,0 +1,185 @@
+<project version="4">
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="-1">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/main.cpp">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="748">
+              <caret line="34" column="43" selection-start-line="34" selection-start-column="43" selection-end-line="34" selection-end-column="43" />
+              <folding>
+                <element signature="e#0#17#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/InputValidators.cpp">
+          <provider selected="true" editor-type-id="text-editor">
+            <state>
+              <folding>
+                <element signature="e#0#28#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Serializer.cpp">
+          <provider selected="true" editor-type-id="text-editor">
+            <state>
+              <folding>
+                <element signature="e#0#23#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/CMakeLists.txt">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="66">
+              <caret line="3" column="25" selection-start-line="3" selection-start-column="25" selection-end-line="3" selection-end-column="25" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="IdeDocumentHistory">
+    <changedPaths>
+      <option value="$PROJECT_DIR$/CMakeLists.txt" />
+    </changedPaths>
+  </component>
+  <component name="IgnoredFileRootStore">
+    <option name="generatedRoots">
+      <set>
+        <option value="$PROJECT_DIR$/.idea" />
+      </set>
+    </option>
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1" />
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="Vehicle_Rental" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Vehicle_Rental" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="516000" />
+  </component>
+  <component name="ToolWindowManager">
+    <layout>
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.50237095" />
+      <window_info id="Structure" order="1" side_tool="true" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info id="Commit" order="3" />
+      <window_info id="Pull Requests" order="4" />
+      <window_info anchor="bottom" id="Version Control" order="0" />
+      <window_info anchor="bottom" id="Event Log" order="1" side_tool="true" />
+      <window_info anchor="bottom" id="Find" order="2" />
+      <window_info anchor="bottom" id="Run" order="3" weight="0.32962245" />
+      <window_info anchor="bottom" id="Debug" order="4" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="5" />
+      <window_info anchor="bottom" id="Problems View" order="6" visible="true" weight="0.32962245" />
+      <window_info anchor="bottom" id="Internal Method Tracing" order="7" />
+      <window_info anchor="bottom" id="Inspection" order="8" weight="0.4" />
+      <window_info anchor="bottom" id="File Transfer" order="9" />
+      <window_info anchor="bottom" id="Terminal" order="10" />
+      <window_info anchor="bottom" id="clangd" order="11" />
+      <window_info anchor="bottom" id="CMake" order="12" />
+      <window_info anchor="bottom" id="Database Changes" order="13" show_stripe_button="false" />
+      <window_info anchor="bottom" id="TypeScript" order="14" />
+      <window_info anchor="bottom" id="Python Packages" order="15" />
+      <window_info anchor="bottom" id="Messages" order="16" weight="0.32962245" />
+      <window_info anchor="bottom" id="Flow" order="17" />
+      <window_info anchor="bottom" id="Services" order="18" show_stripe_button="false" />
+      <window_info anchor="right" id="Database" order="0" />
+      <window_info anchor="right" id="make" order="1" show_stripe_button="false" side_tool="true" />
+    </layout>
+    <recentWindows>
+      <value>Problems View</value>
+      <value>Project</value>
+      <value>Run</value>
+      <value>Messages</value>
+    </recentWindows>
+  </component>
+  <component name="Trusted.Project.Settings" hasCheckedIfOldProject="true" trusted="YES" />
+  <component name="WindowStateProjectService">
+    <state width="640" height="204" key="CreateCMakeListWizard.bottomPanel" timestamp="1670690646735">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="640" height="204" key="CreateCMakeListWizard.bottomPanel/0.0.1920.1080@0.0.1920.1080" timestamp="1670690646735" />
+    <state width="640" height="476" key="CreateCMakeListWizard.topPanel" timestamp="1670690646734">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="640" height="476" key="CreateCMakeListWizard.topPanel/0.0.1920.1080@0.0.1920.1080" timestamp="1670690646734" />
+    <state x="741" y="247" width="428" height="482" key="FileChooserDialogImpl" timestamp="1670775717191">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="741" y="247" width="428" height="482" key="FileChooserDialogImpl/0.0.1920.1080/1920.0.3840.2160@0.0.1920.1080" timestamp="1670775717191" />
+    <state width="1848" height="312" key="GridCell.Tab.0.bottom" timestamp="1670691123076">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1848" height="312" key="GridCell.Tab.0.bottom/0.0.1920.1080@0.0.1920.1080" timestamp="1670691123076" />
+    <state width="1848" height="312" key="GridCell.Tab.0.center" timestamp="1670691123072">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1848" height="312" key="GridCell.Tab.0.center/0.0.1920.1080@0.0.1920.1080" timestamp="1670691123072" />
+    <state width="1848" height="312" key="GridCell.Tab.0.left" timestamp="1670691123069">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1848" height="312" key="GridCell.Tab.0.left/0.0.1920.1080@0.0.1920.1080" timestamp="1670691123069" />
+    <state width="1848" height="312" key="GridCell.Tab.0.right" timestamp="1670691123074">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1848" height="312" key="GridCell.Tab.0.right/0.0.1920.1080@0.0.1920.1080" timestamp="1670691123074" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/main.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="748">
+          <caret line="34" column="43" selection-start-line="34" selection-start-column="43" selection-end-line="34" selection-end-column="43" />
+          <folding>
+            <element signature="e#0#17#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/InputValidators.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <folding>
+            <element signature="e#0#28#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CMakeLists.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="66">
+          <caret line="3" column="25" selection-start-line="3" selection-start-column="25" selection-end-line="3" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Serializer.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <folding>
+            <element signature="e#0#23#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>

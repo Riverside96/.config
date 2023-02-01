@@ -1,0 +1,6 @@
+2023/01/29-20:07:43.739 275c Reusing MANIFEST /home/riverside96/.config/discord/Local Storage/leveldb/MANIFEST-000001
+2023/01/29-20:07:43.740 275c Recovering log #132
+2023/01/29-20:07:43.740 275c Reusing old log /home/riverside96/.config/discord/Local Storage/leveldb/000132.log 
+2023/01/29-20:12:08.939 275c Level-0 table #137: started
+2023/01/29-20:12:08.976 275c Level-0 table #137: 1352137 bytes OK
+2023/01/29-20:12:08.979 275c Delete type=0 #132

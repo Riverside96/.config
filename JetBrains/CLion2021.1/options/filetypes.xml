@@ -1,0 +1,19 @@
+<application>
+  <component name="FileTypeManager" version="18">
+    <extensionMap>
+      <mapping pattern="Honda" type="AUTO_DETECTED" />
+      <mapping pattern="bikes" type="AUTO_DETECTED" />
+      <mapping pattern="VW" type="AUTO_DETECTED" />
+      <mapping pattern="Ford" type="AUTO_DETECTED" />
+      <mapping pattern="Triumph" type="AUTO_DETECTED" />
+      <mapping pattern="Suzuki" type="AUTO_DETECTED" />
+      <mapping pattern="Tesla" type="AUTO_DETECTED" />
+      <mapping pattern="cars" type="AUTO_DETECTED" />
+      <mapping pattern="Mclaren" type="AUTO_DETECTED" />
+      <mapping pattern="Subaru" type="AUTO_DETECTED" />
+      <mapping pattern="Vauxhall" type="AUTO_DETECTED" />
+      <mapping ext="his" type="PLAIN_TEXT" />
+      <mapping ext="dat" type="PLAIN_TEXT" />
+    </extensionMap>
+  </component>
+</application>

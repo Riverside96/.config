@@ -1,0 +1,174 @@
+<project version="4">
+  <component name="BookmarksManager">
+    <option name="groups">
+      <GroupState>
+        <option name="name" value="project" />
+      </GroupState>
+    </option>
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="-1">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/project/Client.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state>
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/project/ClientHandler.java">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/project/Server.java">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTypeUsageLocalSummary">
+    <fileType name="JAVA">
+      <summary usageCount="7" lastUsed="1672776195394" />
+    </fileType>
+  </component>
+  <component name="IdeDocumentHistory">
+    <changedPaths>
+      <option value="$PROJECT_DIR$/ClientHandler.java" />
+      <option value="$PROJECT_DIR$/Server.java" />
+      <option value="$PROJECT_DIR$/Client.java" />
+      <option value="$PROJECT_DIR$/project/Server.java" />
+      <option value="$PROJECT_DIR$/project/Client.java" />
+    </changedPaths>
+  </component>
+  <component name="IgnoredFileRootStore">
+    <option name="generatedRoots">
+      <set>
+        <option value="$PROJECT_DIR$/.idea" />
+      </set>
+    </option>
+  </component>
+  <component name="LanguageUsageStatistics">
+    <language id="JAVA">
+      <summary usageCount="7" lastUsage="1672776195394" />
+    </language>
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1" />
+    <panes>
+      <pane id="PackagesPane" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="project" type="b2602c69:ProjectViewProjectNode" />
+              <item name="project" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="project" type="b2602c69:ProjectViewProjectNode" />
+              <item name="project" type="462c0819:PsiDirectoryNode" />
+              <item name="project" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="RunConfigurationStartHistory">
+    <history>
+      <element setting="Application.Server" executorId="Run" />
+    </history>
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="3444000" />
+  </component>
+  <component name="ToolWindowManager">
+    <layout>
+      <window_info id="Bookmarks" order="0" side_tool="true" />
+      <window_info active="true" content_ui="combo" id="Project" order="1" visible="true" weight="0.24908137" />
+      <window_info id="Learn" order="2" />
+      <window_info id="Structure" order="3" side_tool="true" />
+      <window_info anchor="bottom" id="Version Control" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" show_stripe_button="false" weight="0.33009937" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="4" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="Problems View" order="6" weight="0.33009937" />
+      <window_info anchor="bottom" id="Terminal" order="7" />
+      <window_info anchor="bottom" id="Endpoints" order="8" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Services" order="9" />
+      <window_info anchor="bottom" id="Profiler" order="10" />
+      <window_info anchor="bottom" id="Build" order="11" weight="0.33009937" />
+      <window_info anchor="right" id="Database" order="0" />
+      <window_info anchor="right" id="Notifications" order="1" weight="0.25" />
+    </layout>
+    <recentWindows>
+      <value>Project</value>
+      <value>Run</value>
+      <value>Problems View</value>
+      <value>Build</value>
+    </recentWindows>
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="4389" y="717" key="#Run/Debug_Configuration_Templates" timestamp="1672778260147">
+      <screen x="1920" y="0" width="3840" height="2160" />
+    </state>
+    <state x="4389" y="717" key="#Run/Debug_Configuration_Templates/0.0.1920.1080/1920.0.3840.2160@1920.0.3840.2160" timestamp="1672778260147" />
+    <state x="4270" y="717" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1672778270668">
+      <screen x="1920" y="0" width="3840" height="2160" />
+    </state>
+    <state x="4270" y="717" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1920.1080/1920.0.3840.2160@1920.0.3840.2160" timestamp="1672778270668" />
+    <state x="4558" y="813" key="FileChooserDialogImpl" timestamp="1672778721464">
+      <screen x="1920" y="0" width="3840" height="2160" />
+    </state>
+    <state x="4558" y="813" key="FileChooserDialogImpl/0.0.1920.1080/1920.0.3840.2160@1920.0.3840.2160" timestamp="1672778721464" />
+    <state width="1855" height="669" key="GridCell.Tab.0.bottom" timestamp="1672779179399">
+      <screen x="1920" y="0" width="3840" height="2160" />
+    </state>
+    <state width="1855" height="669" key="GridCell.Tab.0.bottom/0.0.1920.1080/1920.0.3840.2160@1920.0.3840.2160" timestamp="1672779179399" />
+    <state width="1855" height="669" key="GridCell.Tab.0.center" timestamp="1672779179399">
+      <screen x="1920" y="0" width="3840" height="2160" />
+    </state>
+    <state width="1855" height="669" key="GridCell.Tab.0.center/0.0.1920.1080/1920.0.3840.2160@1920.0.3840.2160" timestamp="1672779179399" />
+    <state width="1855" height="669" key="GridCell.Tab.0.left" timestamp="1672779179399">
+      <screen x="1920" y="0" width="3840" height="2160" />
+    </state>
+    <state width="1855" height="669" key="GridCell.Tab.0.left/0.0.1920.1080/1920.0.3840.2160@1920.0.3840.2160" timestamp="1672779179399" />
+    <state width="1855" height="669" key="GridCell.Tab.0.right" timestamp="1672779179399">
+      <screen x="1920" y="0" width="3840" height="2160" />
+    </state>
+    <state width="1855" height="669" key="GridCell.Tab.0.right/0.0.1920.1080/1920.0.3840.2160@1920.0.3840.2160" timestamp="1672779179399" />
+    <state x="4278" y="690" key="SettingsEditor" timestamp="1672776184972">
+      <screen x="1920" y="0" width="3840" height="2160" />
+    </state>
+    <state x="4278" y="690" key="SettingsEditor/0.0.1920.1080/1920.0.3840.2160@1920.0.3840.2160" timestamp="1672776184972" />
+    <state x="4396" y="755" key="new project wizard" timestamp="1672778723417">
+      <screen x="1920" y="0" width="3840" height="2160" />
+    </state>
+    <state x="4396" y="755" key="new project wizard/0.0.1920.1080/1920.0.3840.2160@1920.0.3840.2160" timestamp="1672778723417" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/project/Client.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/project/ClientHandler.java">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/project/Server.java">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+  </component>
+</project>

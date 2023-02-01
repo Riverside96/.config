@@ -1,0 +1,333 @@
+<project version="4">
+  <component name="BookmarksManager">
+    <option name="groups">
+      <GroupState>
+        <option name="name" value="chatterbox" />
+      </GroupState>
+    </option>
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="-1">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/chatterbox/Client.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="76">
+              <caret line="29" column="26" lean-forward="true" selection-start-line="29" selection-start-column="26" selection-end-line="29" selection-end-column="26" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/chatterbox/Server.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="340">
+              <caret line="21" column="13" lean-forward="true" selection-start-line="21" selection-start-column="13" selection-end-line="21" selection-end-column="13" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="e#1868#1869#0" expanded="true" />
+                <element signature="e#1901#1902#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/chatterbox.iml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="220">
+              <caret line="10" column="9" selection-start-line="10" selection-start-column="9" selection-end-line="10" selection-end-column="9" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/.idea/modules.xml">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/chatterbox/ClientHandler.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="766">
+              <caret line="44" column="31" lean-forward="true" selection-start-line="44" selection-start-column="31" selection-end-line="44" selection-end-column="31" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="e#1470#1471#0" expanded="true" />
+                <element signature="e#1505#1506#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTypeUsageLocalSummary">
+    <fileType name="IDEA_MODULE">
+      <summary usageCount="4" lastUsed="1673520017580" />
+    </fileType>
+    <fileType name="JAVA">
+      <summary usageCount="24" lastUsed="1673526562732" />
+    </fileType>
+    <fileType name="XML">
+      <summary usageCount="4" lastUsed="1673520017629" />
+    </fileType>
+  </component>
+  <component name="FindInProjectRecents">
+    <dirStrings>
+      <dir>$PROJECT_DIR$/src/chatterbox</dir>
+    </dirStrings>
+  </component>
+  <component name="IdeDocumentHistory">
+    <changedPaths>
+      <option value="$PROJECT_DIR$/src/ClientHandler.java" />
+      <option value="$PROJECT_DIR$/src/Server.java" />
+      <option value="$PROJECT_DIR$/src/Client.java" />
+      <option value="$PROJECT_DIR$/src/chatterbox/Room.java" />
+      <option value="$PROJECT_DIR$/src/chatterbox/Client.java" />
+      <option value="$PROJECT_DIR$/src/chatterbox/ClientHandler.java" />
+      <option value="$PROJECT_DIR$/src/chatterbox/Server.java" />
+    </changedPaths>
+  </component>
+  <component name="IgnoredFileRootStore">
+    <option name="generatedRoots">
+      <set>
+        <option value="$PROJECT_DIR$/.idea" />
+      </set>
+    </option>
+  </component>
+  <component name="LanguageUsageStatistics">
+    <language id="JAVA">
+      <summary usageCount="24" lastUsage="1673526562732" />
+    </language>
+    <language id="XML">
+      <summary usageCount="4" lastUsage="1673520017629" />
+    </language>
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1" />
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="chatterbox" type="b2602c69:ProjectViewProjectNode" />
+              <item name="chatterbox" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="chatterbox" type="b2602c69:ProjectViewProjectNode" />
+              <item name="chatterbox" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="chatterbox" type="b2602c69:ProjectViewProjectNode" />
+              <item name="chatterbox" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="chatterbox" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="PackagesPane" />
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="RunConfigurationStartHistory">
+    <history>
+      <element setting="Application.multiple" executorId="Run" />
+    </history>
+  </component>
+  <component name="TerminalArrangementManager">
+    <option name="myTabStates">
+      <TerminalTabState tabName="Local" commandHistoryFileName="chatterbox-history1" />
+    </option>
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="27560000" />
+  </component>
+  <component name="ToolWindowManager">
+    <layout>
+      <window_info id="Bookmarks" order="0" side_tool="true" />
+      <window_info active="true" content_ui="combo" id="Project" order="1" visible="true" weight="0.06168151" />
+      <window_info id="Learn" order="2" />
+      <window_info id="Structure" order="3" side_tool="true" />
+      <window_info anchor="bottom" id="Version Control" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" show_stripe_button="false" weight="0.16398485" />
+      <window_info anchor="bottom" id="Debug" order="3" show_stripe_button="false" weight="0.40014198" />
+      <window_info anchor="bottom" id="TODO" order="4" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="Problems View" order="6" weight="0.33009937" />
+      <window_info anchor="bottom" id="Terminal" order="7" weight="0.33009937" />
+      <window_info anchor="bottom" id="Endpoints" order="8" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Services" order="9" />
+      <window_info anchor="bottom" id="Profiler" order="10" />
+      <window_info anchor="bottom" id="Build" order="11" weight="0.33009937" />
+      <window_info anchor="right" id="Database" order="0" />
+      <window_info anchor="right" id="Notifications" order="1" weight="0.25" />
+    </layout>
+    <recentWindows>
+      <value>Run</value>
+      <value>Problems View</value>
+      <value>Debug</value>
+      <value>Project</value>
+      <value>Terminal</value>
+      <value>Build</value>
+    </recentWindows>
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="4274" y="706" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1672779842632">
+      <screen x="1920" y="0" width="3840" height="2160" />
+    </state>
+    <state x="4274" y="706" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1920.1080/1920.0.3840.2160@1920.0.3840.2160" timestamp="1672779842632" />
+    <state x="4531" y="835" width="529" height="417" key="#com.intellij.ide.util.TreeClassChooserDialog" timestamp="1672779837423">
+      <screen x="1920" y="0" width="3840" height="2160" />
+    </state>
+    <state x="4531" y="835" width="529" height="417" key="#com.intellij.ide.util.TreeClassChooserDialog/0.0.1920.1080/1920.0.3840.2160@1920.0.3840.2160" timestamp="1672779837423" />
+    <state x="4419" y="828" width="746" height="514" key="FileChooserDialogImpl" timestamp="1673520013968">
+      <screen x="1920" y="0" width="3840" height="2160" />
+    </state>
+    <state x="4419" y="828" width="746" height="514" key="FileChooserDialogImpl/0.0.1920.1080/1920.0.3840.2160@1920.0.3840.2160" timestamp="1673520013968" />
+    <state width="3768" height="318" key="GridCell.Tab.0.bottom" timestamp="1673535112219">
+      <screen x="1920" y="0" width="3840" height="2160" />
+    </state>
+    <state width="1855" height="319" key="GridCell.Tab.0.bottom/0.0.1920.1080/1920.0.3840.2160@0.0.1920.1080" timestamp="1672785649494" />
+    <state width="3768" height="318" key="GridCell.Tab.0.bottom/0.0.1920.1080/1920.0.3840.2160@1920.0.3840.2160" timestamp="1673535112219" />
+    <state width="1848" height="312" key="GridCell.Tab.0.bottom/0.0.1920.1080@0.0.1920.1080" timestamp="1673395782890" />
+    <state width="3768" height="318" key="GridCell.Tab.0.center" timestamp="1673535112219">
+      <screen x="1920" y="0" width="3840" height="2160" />
+    </state>
+    <state width="1855" height="319" key="GridCell.Tab.0.center/0.0.1920.1080/1920.0.3840.2160@0.0.1920.1080" timestamp="1672785649494" />
+    <state width="3768" height="318" key="GridCell.Tab.0.center/0.0.1920.1080/1920.0.3840.2160@1920.0.3840.2160" timestamp="1673535112219" />
+    <state width="1848" height="312" key="GridCell.Tab.0.center/0.0.1920.1080@0.0.1920.1080" timestamp="1673395782890" />
+    <state width="3768" height="318" key="GridCell.Tab.0.left" timestamp="1673535112219">
+      <screen x="1920" y="0" width="3840" height="2160" />
+    </state>
+    <state width="1855" height="319" key="GridCell.Tab.0.left/0.0.1920.1080/1920.0.3840.2160@0.0.1920.1080" timestamp="1672785649494" />
+    <state width="3768" height="318" key="GridCell.Tab.0.left/0.0.1920.1080/1920.0.3840.2160@1920.0.3840.2160" timestamp="1673535112219" />
+    <state width="1848" height="312" key="GridCell.Tab.0.left/0.0.1920.1080@0.0.1920.1080" timestamp="1673395782890" />
+    <state width="3768" height="318" key="GridCell.Tab.0.right" timestamp="1673535112219">
+      <screen x="1920" y="0" width="3840" height="2160" />
+    </state>
+    <state width="1855" height="319" key="GridCell.Tab.0.right/0.0.1920.1080/1920.0.3840.2160@0.0.1920.1080" timestamp="1672785649494" />
+    <state width="3768" height="318" key="GridCell.Tab.0.right/0.0.1920.1080/1920.0.3840.2160@1920.0.3840.2160" timestamp="1673535112219" />
+    <state width="1848" height="312" key="GridCell.Tab.0.right/0.0.1920.1080@0.0.1920.1080" timestamp="1673395782890" />
+    <state width="3768" height="817" key="GridCell.Tab.1.bottom" timestamp="1673535112182">
+      <screen x="1920" y="0" width="3840" height="2160" />
+    </state>
+    <state width="3768" height="817" key="GridCell.Tab.1.bottom/0.0.1920.1080/1920.0.3840.2160@1920.0.3840.2160" timestamp="1673535112182" />
+    <state width="3768" height="817" key="GridCell.Tab.1.center" timestamp="1673535112182">
+      <screen x="1920" y="0" width="3840" height="2160" />
+    </state>
+    <state width="3768" height="817" key="GridCell.Tab.1.center/0.0.1920.1080/1920.0.3840.2160@1920.0.3840.2160" timestamp="1673535112182" />
+    <state width="3768" height="817" key="GridCell.Tab.1.left" timestamp="1673535112182">
+      <screen x="1920" y="0" width="3840" height="2160" />
+    </state>
+    <state width="3768" height="817" key="GridCell.Tab.1.left/0.0.1920.1080/1920.0.3840.2160@1920.0.3840.2160" timestamp="1673535112182" />
+    <state width="3768" height="817" key="GridCell.Tab.1.right" timestamp="1673535112182">
+      <screen x="1920" y="0" width="3840" height="2160" />
+    </state>
+    <state width="3768" height="817" key="GridCell.Tab.1.right/0.0.1920.1080/1920.0.3840.2160@1920.0.3840.2160" timestamp="1673535112182" />
+    <state x="4279" y="639" width="1028" height="843" key="SettingsEditor" timestamp="1673440771912">
+      <screen x="1920" y="0" width="3840" height="2160" />
+    </state>
+    <state x="4279" y="639" width="1028" height="843" key="SettingsEditor/0.0.1920.1080/1920.0.3840.2160@1920.0.3840.2160" timestamp="1673440771912" />
+    <state x="3369" y="718" width="931" height="684" key="com.intellij.xdebugger.impl.breakpoints.ui.BreakpointsDialogFactory$2" timestamp="1673529990048">
+      <screen x="1920" y="0" width="3840" height="2160" />
+    </state>
+    <state x="3369" y="718" width="931" height="684" key="com.intellij.xdebugger.impl.breakpoints.ui.BreakpointsDialogFactory$2/0.0.1920.1080/1920.0.3840.2160@1920.0.3840.2160" timestamp="1673529990048" />
+    <state x="3842" y="-15" width="1909" height="2141" key="dock-window-1" timestamp="1673526741828">
+      <screen x="1920" y="0" width="3840" height="2160" />
+    </state>
+    <state x="3842" y="-15" width="1909" height="2141" key="dock-window-1/0.0.1920.1080/1920.0.3840.2160@1920.0.3840.2160" timestamp="1673526741828" />
+    <state x="3509" y="120" width="796" height="909" key="find.popup" timestamp="1673534538006">
+      <screen x="1920" y="0" width="3840" height="2160" />
+    </state>
+    <state x="3509" y="120" width="796" height="909" key="find.popup/0.0.1920.1080/1920.0.3840.2160@1920.0.3840.2160" timestamp="1673534538006" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/chatterbox/Room.java" />
+    <entry file="file://$PROJECT_DIR$/chatterbox.iml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="220">
+          <caret line="10" column="9" selection-start-line="10" selection-start-column="9" selection-end-line="10" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.idea/modules.xml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/chatterbox/Client.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="76">
+          <caret line="29" column="26" lean-forward="true" selection-start-line="29" selection-start-column="26" selection-end-line="29" selection-end-column="26" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/chatterbox/ClientHandler.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="766">
+          <caret line="44" column="31" lean-forward="true" selection-start-line="44" selection-start-column="31" selection-end-line="44" selection-end-column="31" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#1470#1471#0" expanded="true" />
+            <element signature="e#1505#1506#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/chatterbox/Server.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="340">
+          <caret line="21" column="13" lean-forward="true" selection-start-line="21" selection-start-column="13" selection-end-line="21" selection-end-column="13" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#1868#1869#0" expanded="true" />
+            <element signature="e#1901#1902#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI" />
+      <state key="GlobalLibrariesConfigurable.UI" />
+      <state key="JdkListConfigurable.UI" />
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>chatterbox</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>

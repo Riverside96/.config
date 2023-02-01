@@ -1,0 +1,14 @@
+<application>
+  <component name="Trusted.Paths">
+    <option name="TRUSTED_PROJECT_PATHS">
+      <map>
+        <entry key="$USER_HOME$/IdeaProjects/chatRoom" value="true" />
+        <entry key="$USER_HOME$/IdeaProjects/demo1" value="true" />
+        <entry key="$USER_HOME$/hallam/networking/ChatRoom" value="true" />
+        <entry key="$USER_HOME$/hallam/networking/chat/chatterbox" value="true" />
+        <entry key="$USER_HOME$/hallam/networking/chatterbox" value="true" />
+        <entry key="$USER_HOME$/hallam/networking/intelli_proj" value="true" />
+      </map>
+    </option>
+  </component>
+</application>

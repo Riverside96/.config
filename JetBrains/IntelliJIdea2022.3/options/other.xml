@@ -1,0 +1,75 @@
+<application>
+  <component name="PropertyService"><![CDATA[{
+  "keyToString": {
+    "CWM_LOGGING_VERSION": "1",
+    "InstalledPluginsSearchHistory": "i\nid\nide\nidea\nideav",
+    "MarketplacePluginsSearchHistory": "vim\ni",
+    "NewProjectWizard.addSampleCodeState": "false",
+    "RunOnceActivity.se.text.search": "true",
+    "SettingsSearchHistory": "javafx",
+    "appcds.runOnSecondStart": "IU-223.8214.52-de652a72d8591cd814c4f2ec372d155980210c02554aae361c7be6779f9c67a3",
+    "build.toolwindow.Build Output.selection.state": "com.intellij.build.BuildTreeConsoleView",
+    "build.toolwindow.Sync.selection.state": "com.intellij.build.BuildTreeConsoleView",
+    "bundled.plugins.list.saved.version": "IU-223.8214.52",
+    "com.intellij.ide.projectWizard.generators.JavaNewProjectWizard$Step.selectedStep": "IntelliJ",
+    "com.intellij.ide.wizard.NewProjectWizardLanguageStep.selectedStep": "Java",
+    "com.intellij.openapi.roots.ui.configuration.TabbedModuleEditor.selectedEditor": "Dependencies",
+    "decompiler.legal.notice.accepted": "true",
+    "defaultJdkConfigured": "true",
+    "eclipse.projects.detected": "",
+    "evlsprt3.223": "22",
+    "file.gist.reindex.count": "6",
+    "fileTypeChangedCounter": "1",
+    "fontSizeToResetConsole": "13.0",
+    "fontSizeToResetEditor": "13.0",
+    "got.it.tooltip.reader.mode.got.it": "1",
+    "gotit.previous.run": "IU-223.8214.52",
+    "ide.memory.adjusted": "true",
+    "ideavim.statistics.timestamp": "1672778212616",
+    "input.method.disabler.muted": "true",
+    "installed.kotlin.plugin.version": "223-1.7.21-release-272-IJ8214.52",
+    "jdk.selected.JAVA_MODULE": "17",
+    "last_opened_file_path": "/home/riverside96/hallam/networking",
+    "previousColorScheme": "_@user_Darcula",
+    "project.wizard.group": "NPW.simple-project",
+    "registry.to.advanced.settings.migration.build": "IU-223.8214.52",
+    "tasks.pass.word.conversion.enforced": "true",
+    "ts.lib.d.ts.version": "4.8.4"
+  },
+  "keyToStringList": {
+    "file.chooser.recent.files": [
+      "/home/riverside96/hallam/networking/chat/chatterbox",
+      "/home/riverside96/hallam/networking/chatterbox/lib/lanterna-3.2.0-alpha1.jar",
+      "/home/riverside96/hallam/networking",
+      "/home/riverside96/hallam/networking/intelli_proj/project",
+      "/home/riverside96/hallam/networking/intelli_proj",
+      "/home/riverside96/hallam/networking/ChatRoom"
+    ],
+    "fileTypeDetectors": [
+      "com.intellij.ide.scratch.ScratchFileServiceImpl$Detector",
+      "com.intellij.docker.dockerFile.DockerFileTypeDetector",
+      "com.intellij.profiler.ultimate.hprof.impl.HprofFileTypeDetector",
+      "com.intellij.javascript.debugger.sourcemap.SourceMapFileType$MyFileTypeDetector",
+      "com.intellij.database.vfs.DbStorageFileType$Detector",
+      "com.jetbrains.nodejs.util.NodeFileTypeDetector$JavaScriptFileTypeDetector",
+      "com.jetbrains.nodejs.util.NodeFileTypeDetector$TypeScriptFileTypeDetector",
+      "com.android.tools.idea.sqlite.fileType.SqliteFileTypeDetector",
+      "com.android.tools.idea.profilers.capture.MemoryCaptureFileType$Detector",
+      "org.jetbrains.plugins.textmate.TextMateFileType$TextMateFileDetector"
+    ]
+  }
+}]]></component>
+  <component name="ShownTips"><![CDATA[{
+  "shownTips": {
+    "Rename": 1672767717526,
+    "SearchEverywhere": 1673395693717,
+    "CommentCode": 1673519999627
+  }
+}]]></component>
+  <component name="TerminalCommandHistoryManager">
+    <command-history-files>
+      <command-history-file filename="chatterbox-history1" project-path="$USER_HOME$/hallam/networking/chat/chatterbox" last-access-time="1673526057541" />
+      <command-history-file filename="chatterbox-history" project-path="$USER_HOME$/hallam/networking/chatterbox" last-access-time="1673472294385" />
+    </command-history-files>
+  </component>
+</application>

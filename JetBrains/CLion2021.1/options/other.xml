@@ -1,0 +1,135 @@
+<application>
+  <component name="NodeJsLocalInterpreters">
+    <local-interpreter path="/bin/node" />
+    <local-interpreter path="/sbin/node" />
+    <local-interpreter path="/usr/bin/node" />
+  </component>
+  <component name="NotRoamableUiSettings">
+    <option name="fontScale" value="1.0" />
+    <option name="fontSize" value="20" />
+  </component>
+  <component name="ProjectPluginTrackerManager">
+    <trackers>
+      <map>
+        <entry key="2IVY09ef416xfMwWsDGPp0QVrgM">
+          <value>
+            <ProjectPluginTracker />
+          </value>
+        </entry>
+        <entry key="2IVYYK32wfzJQOxrXSDl8XCNRim">
+          <value>
+            <ProjectPluginTracker />
+          </value>
+        </entry>
+        <entry key="2IVYkxvCGBI8qLTxDxguV2e09E3">
+          <value>
+            <ProjectPluginTracker />
+          </value>
+        </entry>
+        <entry key="2IVhKrY7KFPWcmICsCO8wjTSEv8">
+          <value>
+            <ProjectPluginTracker />
+          </value>
+        </entry>
+        <entry key="2IVnEdPG39M13YHpRBnBrqW9o3q">
+          <value>
+            <ProjectPluginTracker />
+          </value>
+        </entry>
+        <entry key="2IjMauA5k7lSMHYftXj1J1M3JZg">
+          <value>
+            <ProjectPluginTracker />
+          </value>
+        </entry>
+        <entry key="2IjMdXtExEXTDCq9MGCH1jXFhVX">
+          <value>
+            <ProjectPluginTracker />
+          </value>
+        </entry>
+        <entry key="2Im96tgl38OPg6MQbXzd6YeiUYR">
+          <value>
+            <ProjectPluginTracker />
+          </value>
+        </entry>
+        <entry key="2ImB5vpbFs18ZegDn6NAaFXwdHE">
+          <value>
+            <ProjectPluginTracker />
+          </value>
+        </entry>
+        <entry key="2ImKS0QoOYzsNII6SHWmlcSUUoo">
+          <value>
+            <ProjectPluginTracker />
+          </value>
+        </entry>
+        <entry key="2ImeIg9NW9os1sCmnLwjl2zlAXT">
+          <value>
+            <ProjectPluginTracker />
+          </value>
+        </entry>
+        <entry key="2ImeyXoKzKgT5VcRHs8f4XOwb4r">
+          <value>
+            <ProjectPluginTracker />
+          </value>
+        </entry>
+        <entry key="2ImslER7SN0XI6khl854aQlip8u">
+          <value>
+            <ProjectPluginTracker />
+          </value>
+        </entry>
+        <entry key="2ImtARB5DvEjkDqniYqmwq8mOgQ">
+          <value>
+            <ProjectPluginTracker />
+          </value>
+        </entry>
+        <entry key="2Is4GNyk0RQ4eze7PrQdeaj4zhQ">
+          <value>
+            <ProjectPluginTracker />
+          </value>
+        </entry>
+        <entry key="2Is8jdKHSSGftVlat4JUTSD7iI3">
+          <value>
+            <ProjectPluginTracker />
+          </value>
+        </entry>
+      </map>
+    </trackers>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ExpandBeforeRunStepsPanel" value="true" />
+    <property name="ExpandRunDashboardTypesPanel" value="false" />
+    <property name="InstalledPluginsSearchHistory" value="Came&#10;Cam&#10;Ca&#10;c&#10;co" />
+    <property name="LayoutCode.codeCleanup" value="true" />
+    <property name="LayoutCode.optimizeImports" value="false" />
+    <property name="LayoutCode.processChangedText" value="false" />
+    <property name="LayoutCode.rearrangeEntriesC/C++" value="false" />
+    <property name="MarketplacePluginsSearchHistory" value="camel&#10;cam&#10;c&#10;cmael&#10;cma" />
+    <property name="SettingsSearchHistory" value="increase font size zoom&#10;font&#10;font size&#10;working direct&#10;run configuration" />
+    <property name="appcds.runOnSecondStart" value="CL-211.7628.27-089a258b45e167b1cdb416ac229828b7ee9a9bebadeacd4591aa7e46f2bdcf3f" />
+    <property name="clion.initialConfigPerformed" value="true" />
+    <property name="evlsprt3.211" value="13" />
+    <property name="experimentalFeature.editor.reader.mode" value="false" />
+    <property name="file.chooser.recent.files" value="$USER_HOME$/Desktop/zzz2/A&#10;/home/riverside96/Desktop/assignment/RLB_Assignment&#10;/home/riverside96/Desktop/zzz2/Vehicle_Rental_cstrinmg (copy 2)&#10;/home/riverside96/Desktop/zzz2/Vehicle_Rental_cstrinmg (copy 1)&#10;/home/riverside96/Desktop/zzz2/Vehicle_Rental_cstrinmg&#10;/home/riverside96/Desktop/zzz/run&#10;/home/riverside96/Desktop/zzz/Vehicle_Rental_cstrinmg/CMakeLists.txt&#10;/home/riverside96/Desktop/zzz&#10;/home/riverside96/Desktop/007/Vehicle_Rental_cstrinmg&#10;/home/riverside96/Desktop/newest/Vehicle_Rental&#10;/home/riverside96/Desktop/newest/Vehicle_Rental/data&#10;/home/riverside96/Desktop/new/Vehicle_Rental&#10;/home/riverside96/Desktop/arghhh/Vehicle_Rental&#10;/home/riverside96/Desktop/tryagain&#10;/home/riverside96/Desktop/assignment/Vehicle_Rental&#10;/home/riverside96/Desktop/test/Vehicle_Rental&#10;/home/riverside96/Desktop/Vehicle_Rental&#10;/home/riverside96/Desktop/VehRent" />
+    <property name="file.gist.reindex.count" value="126" />
+    <property name="fileTypeChangedCounter" value="14" />
+    <property name="fileTypeDetectors" value="com.intellij.database.vfs.DbStorageFileType$Detector:com.intellij.ide.scratch.ScratchFileServiceImpl$Detector:com.intellij.javascript.debugger.sourcemap.SourceMapFileType$MyFileTypeDetector:com.jetbrains.cidr.lang.OCHeaderFileTypeDetector" />
+    <property name="got.it.tooltip.cwm.invitation.notification" value="1" />
+    <property name="ide.updates.previous.build.number" value="CL-211.7628.27" />
+    <property name="ideavim.statistics.timestamp" value="1674760848412" />
+    <property name="lastSeenTip" value="neue-CodeCompletion.html" />
+    <property name="lastTimeTipsWereShown" value="1674760851595" />
+    <property name="last_opened_file_path" value="$USER_HOME$/Desktop/zzz" />
+    <property name="log.trace.categories" value="#com.jetbrains.rdserver.requests&#10;#com.jetbrains.rd.ide.document&#10;#com.jetbrains.rdserver.document&#10;#com.jetbrains.rdserver.editors&#10;#com.jetbrains.rdserver.actions" />
+    <property name="seenTips" value="neue-HippieCompletion.html,neue-GutterNavigation.html,neue-FindReplaceToggle.html,neue-PullMembers.html,neue-Welcome.html,neue-CodeCompletion.html" />
+    <property name="settings.code.style.selected.tab.ObjectiveC" value="Wrapping and Braces" />
+    <property name="tasks.pass.word.conversion.enforced" value="true" />
+    <property name="ts.lib.d.ts.version" value="4.2.2" />
+  </component>
+  <component name="TerminalCommandHistoryManager">
+    <command-history-files>
+      <command-history-file filename="Vehicle_Rental_cstrinmg-history" project-path="$USER_HOME$/Desktop/zzz2/Vehicle_Rental_cstrinmg" last-access-time="1671055853098" />
+    </command-history-files>
+  </component>
+  <component name="ToolbarSettingsService">
+    <option name="NEW_TOOLBAR_SETTINGS" value="OLD_NAVBAR" />
+  </component>
+</application>

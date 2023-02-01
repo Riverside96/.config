@@ -1,0 +1,202 @@
+<application>
+  <component name="ActionsLocalSummary">
+    <e n="$Copy">
+      <i c="1" l="1673531985741" />
+    </e>
+    <e n="$Delete">
+      <i c="7" l="1673440776308" />
+    </e>
+    <e n="$Redo">
+      <i c="24" l="1673533734616" />
+    </e>
+    <e n="$Undo">
+      <i c="754" l="1673534941081" />
+    </e>
+    <e n="AutoIndentLines">
+      <i c="6" l="1672776653430" />
+    </e>
+    <e n="CommentByLineComment">
+      <i c="15" l="1673533873103" />
+    </e>
+    <e n="CompileProject">
+      <i c="1" l="1673440718396" />
+    </e>
+    <e n="Debug">
+      <i c="1" l="1673530012025" />
+    </e>
+    <e n="EditorBackSpace">
+      <i c="2140" l="1673535064430" />
+    </e>
+    <e n="EditorChooseLookupItem">
+      <i c="183" l="1673535087488" />
+    </e>
+    <e n="EditorChooseLookupItemReplace">
+      <i c="7" l="1673533817892" />
+    </e>
+    <e n="EditorCompleteStatement">
+      <i c="2" l="1673471901792" />
+    </e>
+    <e n="EditorCopy">
+      <i c="52" l="1673533427550" />
+    </e>
+    <e n="EditorCut">
+      <i c="12" l="1673534328406" />
+    </e>
+    <e n="EditorDelete">
+      <i c="2" l="1673521574857" />
+    </e>
+    <e n="EditorDown">
+      <i c="510" l="1673535083485" />
+    </e>
+    <e n="EditorEnter">
+      <i c="263" l="1673535039115" />
+    </e>
+    <e n="EditorEscape">
+      <i c="83" l="1673534939280" />
+    </e>
+    <e n="EditorIndentSelection">
+      <i c="1" l="1673441105495" />
+    </e>
+    <e n="EditorLeft">
+      <i c="673" l="1673534210444" />
+    </e>
+    <e n="EditorPaste">
+      <i c="77" l="1673534331210" />
+    </e>
+    <e n="EditorRight">
+      <i c="881" l="1673535063452" />
+    </e>
+    <e n="EditorSelectWord">
+      <i c="1" l="1673523322436" />
+    </e>
+    <e n="EditorTab">
+      <i c="32" l="1673534089966" />
+    </e>
+    <e n="EditorUnindentSelection">
+      <i c="2" l="1673441107731" />
+    </e>
+    <e n="EditorUp">
+      <i c="349" l="1673535087084" />
+    </e>
+    <e n="Find">
+      <i c="2" l="1672764479013" />
+    </e>
+    <e n="GotoDeclaration">
+      <i c="2" l="1673482642974" />
+    </e>
+    <e n="NewClass">
+      <i c="11" l="1673441042492" />
+    </e>
+    <e n="NewDir">
+      <i c="3" l="1673439433242" />
+    </e>
+    <e n="NewProject">
+      <i c="5" l="1672778640511" />
+    </e>
+    <e n="OpenFile">
+      <i c="3" l="1673519999851" />
+    </e>
+    <e n="ProblemsView.QuickFixes">
+      <i c="9" l="1673441477002" />
+    </e>
+    <e n="Replace">
+      <i c="2" l="1673523679350" />
+    </e>
+    <e n="ReplaceInPath">
+      <i c="2" l="1673534536893" />
+    </e>
+    <e n="Run">
+      <i c="201" l="1673534734769" />
+    </e>
+    <e n="RunClass">
+      <i c="1" l="1672775860027" />
+    </e>
+    <e n="SaveAll">
+      <i c="127" l="1673535104150" />
+    </e>
+    <e n="ShowIntentionActions">
+      <i c="30" l="1673532049010" />
+    </e>
+    <e n="ShowProjectStructureSettings">
+      <i c="3" l="1673440764768" />
+    </e>
+    <e n="ShowSettings">
+      <i c="5" l="1673440753386" />
+    </e>
+    <e n="Stop">
+      <i c="80" l="1673534778425" />
+    </e>
+    <e n="ToggleLineBreakpoint">
+      <i c="1" l="1673529993104" />
+    </e>
+    <e n="VimPluginToggle">
+      <i c="1" l="1672779655716" />
+    </e>
+    <e n="WelcomeScreen.OpenProject">
+      <i c="1" l="1672762675782" />
+    </e>
+    <e n="com.intellij.codeInsight.daemon.impl.DaemonTooltipWithActionRenderer$addActionsRow$1">
+      <i c="2" l="1673471906811" />
+    </e>
+    <e n="com.intellij.codeInsight.daemon.impl.DaemonTooltipWithActionRenderer$addActionsRow$2">
+      <i c="7" l="1673527642994" />
+    </e>
+    <e n="com.intellij.execution.actions.RunConfigurationsComboBoxAction$RunCurrentFileAction">
+      <i c="38" l="1673534711490" />
+    </e>
+    <e n="com.intellij.execution.actions.RunConfigurationsComboBoxAction$SelectConfigAction">
+      <i c="38" l="1673534734045" />
+    </e>
+    <e n="com.intellij.execution.impl.ConsoleViewImpl$DeleteBackspaceHandler">
+      <i c="28" l="1673534406504" />
+    </e>
+    <e n="com.intellij.execution.impl.ConsoleViewImpl$EnterHandler">
+      <i c="223" l="1673534765123" />
+    </e>
+    <e n="com.intellij.execution.ui.FragmentedSettingsBuilder$ToggleFragmentAction">
+      <i c="4" l="1672779213368" />
+    </e>
+    <e n="com.intellij.find.SearchReplaceComponent$CloseAction">
+      <i c="3" l="1673523681581" />
+    </e>
+    <e n="com.intellij.find.editorHeaderActions.NextOccurrenceAction">
+      <i c="1" l="1672764481497" />
+    </e>
+    <e n="com.intellij.find.editorHeaderActions.ToggleSelectionOnlyAction">
+      <i c="1" l="1673441348105" />
+    </e>
+    <e n="com.intellij.find.impl.FindUIHelper$1">
+      <i c="2" l="1673534537232" />
+    </e>
+    <e n="com.intellij.openapi.actionSystem.EmptyAction$MyDelegatingAction">
+      <i c="995" l="1672779377400" />
+    </e>
+    <e n="com.intellij.openapi.editor.impl.EditorMarkupModelImpl$TrafficLightAction">
+      <i c="39" l="1673530131568" />
+    </e>
+    <e n="com.intellij.openapi.fileEditor.impl.tabActions.CloseTab">
+      <i c="1" l="1672775854430" />
+    </e>
+    <e n="com.intellij.openapi.project.DumbAwareAction$SimpleDumbAwareAction">
+      <i c="1" l="1673534538003" />
+    </e>
+    <e n="com.intellij.openapi.ui.DialogWrapper$4">
+      <i c="5" l="1672785641659" />
+    </e>
+    <e n="com.intellij.toolWindow.ToolWindowHeader$HideAction">
+      <i c="73" l="1673530467772" />
+    </e>
+    <e n="com.intellij.ui.CommonActionsPanel$AddButton">
+      <i c="3" l="1673439452566" />
+    </e>
+    <e n="com.intellij.ui.CommonActionsPanel$RemoveButton">
+      <i c="1" l="1673440767417" />
+    </e>
+    <e n="com.intellij.xdebugger.impl.breakpoints.RemoveBreakpointGutterIconAction">
+      <i c="1" l="1673531020339" />
+    </e>
+    <e n="editRunConfigurations">
+      <i c="4" l="1672779823541" />
+    </e>
+  </component>
+</application>

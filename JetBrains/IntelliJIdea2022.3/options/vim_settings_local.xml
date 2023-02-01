@@ -1,0 +1,98 @@
+<application>
+  <component name="VimMarksSettings">
+    <globalmarks />
+    <filemarks>
+      <file name="$USER_HOME$/hallam/networking/chatterbox/src/Server.java" timestamp="1672778929531">
+        <mark key="[" line="0" column="19" />
+        <mark key="]" line="0" column="19" />
+        <mark key="." line="0" column="18" />
+        <mark key="^" line="0" column="19" />
+      </file>
+      <file name="$USER_HOME$/hallam/networking/intelli_proj/project/project/Server.java" timestamp="1672778880117">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="58" column="1" />
+        <mark key="^" line="48" column="33" />
+        <mark key="." line="48" column="32" />
+      </file>
+      <file name="$USER_HOME$/hallam/networking/chatterbox/src/chatterbox/Client.java" timestamp="1672779388552">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="88" column="0" />
+      </file>
+      <file name="$USER_HOME$/hallam/networking/intelli_proj/project/project/Client.java" timestamp="1672778856260">
+        <mark key="'" line="86" column="2" />
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="89" column="0" />
+        <mark key="." line="87" column="0" />
+        <mark key="^" line="87" column="1" />
+      </file>
+      <file name="$USER_HOME$/hallam/networking/intelli_proj/project/project/ClientHandler.java" timestamp="1672778812686">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="101" column="0" />
+      </file>
+      <file name="$USER_HOME$/hallam/networking/chatterbox/src/Client.java" timestamp="1672778978938">
+        <mark key="[" line="0" column="16" />
+        <mark key="]" line="0" column="18" />
+        <mark key="^" line="0" column="18" />
+        <mark key="." line="0" column="17" />
+      </file>
+      <file name="/fragment.java" timestamp="1672779208927">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/hallam/networking/chatterbox/src/ClientHandler.java" timestamp="1672778818686">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="79" column="4" />
+        <mark key="^" line="0" column="0" />
+        <mark key="." line="0" column="0" />
+      </file>
+    </filemarks>
+    <jumps>
+      <jump line="13" column="1" filename="$USER_HOME$/hallam/networking/intelli_proj/project/project/Client.java" />
+      <jump line="87" column="0" filename="$USER_HOME$/hallam/networking/intelli_proj/project/project/Client.java" />
+      <jump line="0" column="0" filename="$USER_HOME$/hallam/networking/intelli_proj/project/project/ClientHandler.java" />
+      <jump line="86" column="2" filename="$USER_HOME$/hallam/networking/intelli_proj/project/project/Client.java" />
+      <jump line="0" column="0" filename="$USER_HOME$/hallam/networking/intelli_proj/project/project/Server.java" />
+    </jumps>
+  </component>
+  <component name="VimRegisterSettings">
+    <registers>
+      <register name="0" type="2">
+        <text encoding="base64">cGFja2FnZSBjaGF0dGVyYm94OwppbXBvcnQgamF2YS5uZXQuU29ja2V0OwppbXBvcnQgamF2YS5pby4qOwppbXBvcnQgamF2YS51dGlsLlNjYW5uZXI7CgpwdWJsaWMgY2xhc3MgQ2xpZW50IHsKICAgIHByaXZhdGUgQnVmZmVyZWRSZWFkZXIgYnVmZlI7CiAgICBwcml2YXRlIEJ1ZmZlcmVkV3JpdGVyIGJ1ZmZXOwogICAgcHJpdmF0ZSBTdHJpbmcgdXNlcm5hbWU7CiAgICBwcml2YXRlIFNvY2tldCBzb2NrOwoKICAgIC8vPT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09Ly83NwogICAgLy8gY29uc3RydWN0b3IKICAgIHB1YmxpYyBDbGllbnQoU29ja2V0IGluU29jaywgU3RyaW5nIGluVXNlcm5hbWUpewogICAgICAgIHRyeXsKICAgICAgICAgICAgdGhpcy5zb2NrID0gaW5Tb2NrOwogICAgICAgICAgICB0aGlzLnVzZXJuYW1lID0gaW5Vc2VybmFtZTsKICAgICAgICAgICAgdGhpcy5idWZmUiA9IG5ldyBCdWZmZXJlZFJlYWRlcihuZXcgSW5wdXRTdHJlYW1SZWFkZXIoc29jay5nZXRJbnB1dFN0cmVhbSgpKSk7CiAgICAgICAgICAgIHRoaXMuYnVmZlcgPSBuZXcgQnVmZmVyZWRXcml0ZXIobmV3IE91dHB1dFN0cmVhbVdyaXRlcihzb2NrLmdldE91dHB1dFN0cmVhbSgpKSk7CiAgICAgICAgfWNhdGNoKElPRXhjZXB0aW9uIGUpewogICAgICAgICAgICBzaHV0ZG93bihzb2NrLCBidWZmUiwgYnVmZlcpOwogICAgICAgIH0KICAgIH0KCiAgICAvLz09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PS8vNzcKICAgIHB1YmxpYyB2b2lkIHNlbmRNc2coKXsKICAgICAgICB0cnl7CiAgICAgICAgICAgIGJ1ZmZXLndyaXRlKHVzZXJuYW1lKTsKICAgICAgICAgICAgYnVmZlcubmV3TGluZSgpOwogICAgICAgICAgICBidWZmVy5mbHVzaCgpOwogICAgICAgICAgICBTY2FubmVyIGluID0gbmV3IFNjYW5uZXIoU3lzdGVtLmluKTsKICAgICAgICAgICAgd2hpbGUoc29jay5pc0Nvbm5lY3RlZCgpKXsKICAgICAgICAgICAgICAgIFN0cmluZyBtc2cgPSBpbi5uZXh0TGluZSgpOwogICAgICAgICAgICAgICAgYnVmZlcud3JpdGUodXNlcm5hbWUgKyAiOiAiK21zZyk7CiAgICAgICAgICAgICAgICBidWZmVy5uZXdMaW5lKCk7CiAgICAgICAgICAgICAgICBidWZmVy5mbHVzaCgpOwogICAgICAgICAgICB9CiAgICAgICAgfWNhdGNoKElPRXhjZXB0aW9uIGUpewogICAgICAgICAgICBzaHV0ZG93bihzb2NrLCBidWZmUiwgYnVmZlcpOwogICAgICAgIH0KICAgIH0KCiAgICAvLz09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PS8vNzcKCiAgICBwdWJsaWMgdm9pZCBsaXN0ZW5Nc2coKXsKICAgICAgICBuZXcgVGhyZWFkKG5ldyBSdW5uYWJsZSgpIHsKICAgICAgICAgICAgQE92ZXJyaWRlCiAgICAgICAgICAgIHB1YmxpYyB2b2lkIHJ1bigpIHsKICAgICAgICAgICAgICAgIFN0cmluZyBtc2c7CiAgICAgICAgICAgICAgICB3aGlsZShzb2NrLmlzQ29ubmVjdGVkKCkpewogICAgICAgICAgICAgICAgICAgIHRyeXsKICAgICAgICAgICAgICAgICAgICAgICAgbXNnID0gYnVmZlIucmVhZExpbmUoKTsKICAgICAgICAgICAgICAgICAgICAgICAgU3lzdGVtLm91dC5wcmludGxuKG1zZyk7CiAgICAgICAgICAgICAgICAgICAgfWNhdGNoKElPRXhjZXB0aW9uIGUpewogICAgICAgICAgICAgICAgICAgICAgICBzaHV0ZG93bihzb2NrLCBidWZmUiwgYnVmZlcpOwogICAgICAgICAgICAgICAgICAgIH0KICAgICAgICAgICAgICAgIH0KICAgICAgICAgICAgfQogICAgICAgIH0pLnN0YXJ0KCk7CiAgICB9CgogICAgcHVibGljIHZvaWQgc2h1dGRvd24oU29ja2V0IHNvY2ssIEJ1ZmZlcmVkUmVhZGVyIGJ1ZmZSLCBCdWZmZXJlZFdyaXRlciBidWZmVyl7CiAgICAgICAgdHJ5ewogICAgICAgICAgICBpZihidWZmUiAhPSBudWxsKXsKICAgICAgICAgICAgICAgIGJ1ZmZSLmNsb3NlKCk7CiAgICAgICAgICAgIH0KICAgICAgICAgICAgaWYoYnVmZlcgIT0gbnVsbCl7CiAgICAgICAgICAgICAgICBidWZmVy5jbG9zZSgpOwogICAgICAgICAgICB9CiAgICAgICAgICAgIGlmIChzb2NrICE9IG51bGwpewogICAgICAgICAgICAgICAgc29jay5jbG9zZSgpOwogICAgICAgICAgICB9CiAgICAgICAgfSBjYXRjaCAoRXhjZXB0aW9uIGUpewogICAgICAgICAgICBlLnByaW50U3RhY2tUcmFjZSgpOwogICAgICAgIH0KICAgIH0KCiAgICBwdWJsaWMgc3RhdGljIHZvaWQgbWFpbihTdHJpbmdbXSBhcmdzKSB0aHJvd3MgSU9FeGNlcHRpb24gewogICAgICAgIFNjYW5uZXIgaW4gPSBuZXcgU2Nhbm5lcihTeXN0ZW0uaW4pOwogICAgICAgIFN5c3RlbS5vdXQucHJpbnRsbigiRW50ZXIgeW91ciB1c2VybmFtZSIpOwogICAgICAgIFN0cmluZyB1c2VybmFtZSA9IGluLm5leHRMaW5lKCk7CiAgICAgICAgU29ja2V0IHNvY2sgPSBuZXcgU29ja2V0KCJsb2NhbGhvc3QiLCAxMjM0KTsKICAgICAgICBDbGllbnQgY2xpZW50ID0gbmV3IENsaWVudChzb2NrLCB1c2VybmFtZSk7CiAgICAgICAgY2xpZW50Lmxpc3Rlbk1zZygpOyAgICAgLy9wcm9ncmFtIHdpbGwgaGFsdAogICAgICAgIGNsaWVudC5zZW5kTXNnKCk7ICAgICAgIC8vYnV0IHNlcGVyYXRlIHRocmVhZHMgc28gYWxsIGdvb2QKICAgIH0KCn0KCg==</text>
+      </register>
+      <register name="1" type="2">
+        <text encoding="base64">cHVibGljIGNsYXNzIFNlcnZlciB7Cn0K</text>
+      </register>
+      <register name="&quot;" type="2">
+        <text encoding="base64">cGFja2FnZSBjaGF0dGVyYm94OwppbXBvcnQgamF2YS5uZXQuU29ja2V0OwppbXBvcnQgamF2YS5pby4qOwppbXBvcnQgamF2YS51dGlsLlNjYW5uZXI7CgpwdWJsaWMgY2xhc3MgQ2xpZW50IHsKICAgIHByaXZhdGUgQnVmZmVyZWRSZWFkZXIgYnVmZlI7CiAgICBwcml2YXRlIEJ1ZmZlcmVkV3JpdGVyIGJ1ZmZXOwogICAgcHJpdmF0ZSBTdHJpbmcgdXNlcm5hbWU7CiAgICBwcml2YXRlIFNvY2tldCBzb2NrOwoKICAgIC8vPT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09Ly83NwogICAgLy8gY29uc3RydWN0b3IKICAgIHB1YmxpYyBDbGllbnQoU29ja2V0IGluU29jaywgU3RyaW5nIGluVXNlcm5hbWUpewogICAgICAgIHRyeXsKICAgICAgICAgICAgdGhpcy5zb2NrID0gaW5Tb2NrOwogICAgICAgICAgICB0aGlzLnVzZXJuYW1lID0gaW5Vc2VybmFtZTsKICAgICAgICAgICAgdGhpcy5idWZmUiA9IG5ldyBCdWZmZXJlZFJlYWRlcihuZXcgSW5wdXRTdHJlYW1SZWFkZXIoc29jay5nZXRJbnB1dFN0cmVhbSgpKSk7CiAgICAgICAgICAgIHRoaXMuYnVmZlcgPSBuZXcgQnVmZmVyZWRXcml0ZXIobmV3IE91dHB1dFN0cmVhbVdyaXRlcihzb2NrLmdldE91dHB1dFN0cmVhbSgpKSk7CiAgICAgICAgfWNhdGNoKElPRXhjZXB0aW9uIGUpewogICAgICAgICAgICBzaHV0ZG93bihzb2NrLCBidWZmUiwgYnVmZlcpOwogICAgICAgIH0KICAgIH0KCiAgICAvLz09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PS8vNzcKICAgIHB1YmxpYyB2b2lkIHNlbmRNc2coKXsKICAgICAgICB0cnl7CiAgICAgICAgICAgIGJ1ZmZXLndyaXRlKHVzZXJuYW1lKTsKICAgICAgICAgICAgYnVmZlcubmV3TGluZSgpOwogICAgICAgICAgICBidWZmVy5mbHVzaCgpOwogICAgICAgICAgICBTY2FubmVyIGluID0gbmV3IFNjYW5uZXIoU3lzdGVtLmluKTsKICAgICAgICAgICAgd2hpbGUoc29jay5pc0Nvbm5lY3RlZCgpKXsKICAgICAgICAgICAgICAgIFN0cmluZyBtc2cgPSBpbi5uZXh0TGluZSgpOwogICAgICAgICAgICAgICAgYnVmZlcud3JpdGUodXNlcm5hbWUgKyAiOiAiK21zZyk7CiAgICAgICAgICAgICAgICBidWZmVy5uZXdMaW5lKCk7CiAgICAgICAgICAgICAgICBidWZmVy5mbHVzaCgpOwogICAgICAgICAgICB9CiAgICAgICAgfWNhdGNoKElPRXhjZXB0aW9uIGUpewogICAgICAgICAgICBzaHV0ZG93bihzb2NrLCBidWZmUiwgYnVmZlcpOwogICAgICAgIH0KICAgIH0KCiAgICAvLz09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PS8vNzcKCiAgICBwdWJsaWMgdm9pZCBsaXN0ZW5Nc2coKXsKICAgICAgICBuZXcgVGhyZWFkKG5ldyBSdW5uYWJsZSgpIHsKICAgICAgICAgICAgQE92ZXJyaWRlCiAgICAgICAgICAgIHB1YmxpYyB2b2lkIHJ1bigpIHsKICAgICAgICAgICAgICAgIFN0cmluZyBtc2c7CiAgICAgICAgICAgICAgICB3aGlsZShzb2NrLmlzQ29ubmVjdGVkKCkpewogICAgICAgICAgICAgICAgICAgIHRyeXsKICAgICAgICAgICAgICAgICAgICAgICAgbXNnID0gYnVmZlIucmVhZExpbmUoKTsKICAgICAgICAgICAgICAgICAgICAgICAgU3lzdGVtLm91dC5wcmludGxuKG1zZyk7CiAgICAgICAgICAgICAgICAgICAgfWNhdGNoKElPRXhjZXB0aW9uIGUpewogICAgICAgICAgICAgICAgICAgICAgICBzaHV0ZG93bihzb2NrLCBidWZmUiwgYnVmZlcpOwogICAgICAgICAgICAgICAgICAgIH0KICAgICAgICAgICAgICAgIH0KICAgICAgICAgICAgfQogICAgICAgIH0pLnN0YXJ0KCk7CiAgICB9CgogICAgcHVibGljIHZvaWQgc2h1dGRvd24oU29ja2V0IHNvY2ssIEJ1ZmZlcmVkUmVhZGVyIGJ1ZmZSLCBCdWZmZXJlZFdyaXRlciBidWZmVyl7CiAgICAgICAgdHJ5ewogICAgICAgICAgICBpZihidWZmUiAhPSBudWxsKXsKICAgICAgICAgICAgICAgIGJ1ZmZSLmNsb3NlKCk7CiAgICAgICAgICAgIH0KICAgICAgICAgICAgaWYoYnVmZlcgIT0gbnVsbCl7CiAgICAgICAgICAgICAgICBidWZmVy5jbG9zZSgpOwogICAgICAgICAgICB9CiAgICAgICAgICAgIGlmIChzb2NrICE9IG51bGwpewogICAgICAgICAgICAgICAgc29jay5jbG9zZSgpOwogICAgICAgICAgICB9CiAgICAgICAgfSBjYXRjaCAoRXhjZXB0aW9uIGUpewogICAgICAgICAgICBlLnByaW50U3RhY2tUcmFjZSgpOwogICAgICAgIH0KICAgIH0KCiAgICBwdWJsaWMgc3RhdGljIHZvaWQgbWFpbihTdHJpbmdbXSBhcmdzKSB0aHJvd3MgSU9FeGNlcHRpb24gewogICAgICAgIFNjYW5uZXIgaW4gPSBuZXcgU2Nhbm5lcihTeXN0ZW0uaW4pOwogICAgICAgIFN5c3RlbS5vdXQucHJpbnRsbigiRW50ZXIgeW91ciB1c2VybmFtZSIpOwogICAgICAgIFN0cmluZyB1c2VybmFtZSA9IGluLm5leHRMaW5lKCk7CiAgICAgICAgU29ja2V0IHNvY2sgPSBuZXcgU29ja2V0KCJsb2NhbGhvc3QiLCAxMjM0KTsKICAgICAgICBDbGllbnQgY2xpZW50ID0gbmV3IENsaWVudChzb2NrLCB1c2VybmFtZSk7CiAgICAgICAgY2xpZW50Lmxpc3Rlbk1zZygpOyAgICAgLy9wcm9ncmFtIHdpbGwgaGFsdAogICAgICAgIGNsaWVudC5zZW5kTXNnKCk7ICAgICAgIC8vYnV0IHNlcGVyYXRlIHRocmVhZHMgc28gYWxsIGdvb2QKICAgIH0KCn0KCg==</text>
+      </register>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgIHdoaWxlKHNvY2shKQo=</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICBTdHJpbmcgbXNnID0gaW4ubmV4dExpbmUoKTsK</text>
+      </register>
+      <register name="." type="4">
+        <text encoding="base64">Y2hhdHRlcmJveA==</text>
+      </register>
+    </registers>
+  </component>
+  <component name="VimSearchSettings">
+    <search>
+      <last-dir encoding="base64">MQ==</last-dir>
+      <show-last encoding="base64">ZmFsc2U=</show-last>
+    </search>
+  </component>
+</application>

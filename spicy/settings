@@ -1,0 +1,12 @@
+[general]
+grab-keyboard=true
+grab-mouse=true
+scaling=true
+auto-clipboard=true
+sync-modifiers=true
+
+auto-usbredir=false
+
+[ui]
+toolbar=true
+statusbar=true

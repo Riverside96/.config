@@ -1,0 +1,101 @@
+<application>
+  <component name="RecentProjectsManager">
+    <option name="additionalInfo">
+      <map>
+        <entry key="$USER_HOME$/hallam/networking/ChatRoom">
+          <value>
+            <RecentProjectMetaInfo frameTitle="ChatRoom – Writer.class" projectWorkspaceId="2Jp6UPczrujNieXgiJ4YRFXlp1I">
+              <option name="activationTimestamp" value="1672763376313" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="build" value="IU-223.8214.52" />
+              <option name="buildTimestamp" value="1671535482283" />
+              <frame x="3842" y="-15" width="1909" height="2141" />
+              <option name="productionCode" value="IU" />
+              <option name="projectOpenTimestamp" value="1672762694721" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/IdeaProjects/chatRoom">
+          <value>
+            <RecentProjectMetaInfo frameTitle="chatRoom – EchoClient.java" projectWorkspaceId="2Jp7s9TdQcw6uz2q9VZScLNE0KF">
+              <option name="activationTimestamp" value="1672763650396" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="build" value="IU-223.8214.52" />
+              <option name="buildTimestamp" value="1671535482283" />
+              <frame x="3842" y="-15" width="1909" height="2141" />
+              <option name="productionCode" value="IU" />
+              <option name="projectOpenTimestamp" value="1672763376830" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/IdeaProjects/demo1">
+          <value>
+            <RecentProjectMetaInfo frameTitle="demo1 – EnchancedEchoServer.java" projectWorkspaceId="2Jp8QXV3FOAwiPNZfVvUHLnWxXI">
+              <option name="activationTimestamp" value="1672775461312" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="build" value="IU-223.8214.52" />
+              <option name="buildTimestamp" value="1671535489196" />
+              <frame x="3842" y="-15" width="1909" height="2141" />
+              <option name="productionCode" value="IU" />
+              <option name="projectOpenTimestamp" value="1672775338329" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/hallam/networking/intelli_proj/project">
+          <value>
+            <RecentProjectMetaInfo frameTitle="project – Server.java" projectWorkspaceId="2JpWjbWa6bp39P8V2F72kUo1urW">
+              <option name="activationTimestamp" value="1672779177259" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="build" value="IU-223.8214.52" />
+              <option name="buildTimestamp" value="1671535448934" />
+              <frame x="3842" y="-15" width="1909" height="1080" />
+              <option name="productionCode" value="IU" />
+              <option name="projectOpenTimestamp" value="1672776196737" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/hallam/networking/chatterbox">
+          <value>
+            <RecentProjectMetaInfo frameTitle="chatterbox – Client.java" projectWorkspaceId="2Jpcyy8q6hf1AQuJ3fuYAxyxXOB">
+              <option name="activationTimestamp" value="1673520016703" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="build" value="IU-223.8214.52" />
+              <option name="buildTimestamp" value="1671535481101" />
+              <frame x="1929" y="-15" width="3822" height="2141" />
+              <option name="productionCode" value="IU" />
+              <option name="projectOpenTimestamp" value="1673519992165" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/hallam/networking/chat/chatterbox">
+          <value>
+            <RecentProjectMetaInfo frameTitle="chatterbox – Server.java" opened="true" projectWorkspaceId="2Jpcyy8q6hf1AQuJ3fuYAxyxXOB">
+              <option name="activationTimestamp" value="1673535102265" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="build" value="IU-223.8214.52" />
+              <option name="buildTimestamp" value="1671535481101" />
+              <frame x="1929" y="-15" width="3822" height="2141" />
+              <option name="productionCode" value="IU" />
+              <option name="projectOpenTimestamp" value="1673520018034" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="groups">
+      <list>
+        <ProjectGroup>
+          <option name="bottomGroup" value="true" />
+          <option name="name" value="Eclipse Projects" />
+          <option name="projects">
+            <list>
+              <option value="$USER_HOME$/IdeaProjects/demo" />
+            </list>
+          </option>
+        </ProjectGroup>
+      </list>
+    </option>
+    <option name="lastOpenedProject" value="$USER_HOME$/hallam/networking/chat/chatterbox" />
+    <option name="lastProjectLocation" value="$USER_HOME$/hallam/networking" />
+  </component>
+</application>

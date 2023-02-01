@@ -1,0 +1,24 @@
+00:00:00.359194 VirtualBox GUI VM Selector Window 7.0.4 r154605 linux.amd64 (Jan  2 2023 17:14:55) release log
+00:00:00.359196 Log opened 2023-01-21T20:23:32.216779000Z
+00:00:00.359196 Build Type: release
+00:00:00.359198 OS Product: Linux
+00:00:00.359200 OS Release: 5.15.87-1-lts
+00:00:00.359201 OS Version: #1 SMP Thu, 12 Jan 2023 15:51:39 +0000
+00:00:00.359218 DMI Product Name: 20L7001VUK
+00:00:00.359225 DMI Product Version: ThinkPad T480s
+00:00:00.359229 Firmware type: UEFI
+00:00:00.359927 Secure Boot: Disabled
+00:00:00.359959 Host RAM: 39880MB (38.9GB) total, 36140MB (35.2GB) available
+00:00:00.359961 Executable: /usr/lib/virtualbox/VirtualBox
+00:00:00.359962 Process ID: 16272
+00:00:00.359962 Package type: LINUX_64BITS_GENERIC (OSE)
+00:00:00.359986 Qt version: 5.15.8
+00:00:00.360996 GUI: UIMediumEnumerator: Initial medium-enumeration finished!
+00:00:00.366406 GUI: UIMediumEnumerator: Medium-enumeration started...
+00:00:00.853418 GUI: UIDesktopWidgetWatchdog::sltHandleHostScreenAvailableGeometryCalculated: Screen 0 work area is actually resized to: 9x9 x 945x1033
+00:00:00.873809 GUI: UIMediumEnumerator: Medium-enumeration finished!
+00:00:03.882327 ERROR [COM]: aRC=NS_ERROR_UNEXPECTED (0x8000ffff) aIID={c0447716-ff5a-4795-b57a-ecd5fffa18a4} aComponent={SessionWrap} aText={The session is not locked (session state: Unlocked)}, preserve=false aResultDetail=0
+00:02:02.746624 GUI: UIMediumEnumerator: Medium-enumeration finished!
+00:02:05.065668 ERROR [COM]: aRC=NS_ERROR_UNEXPECTED (0x8000ffff) aIID={c0447716-ff5a-4795-b57a-ecd5fffa18a4} aComponent={SessionWrap} aText={The session is not locked (session state: Unlocked)}, preserve=false aResultDetail=0
+00:10:10.992599 GUI: UICommon: Handling aboutToQuit request..
+00:10:12.023548 GUI: UICommon: aboutToQuit request handled!

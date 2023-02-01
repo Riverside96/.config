@@ -1,0 +1,6 @@
+2022/12/01-15:56:33.340 3 Reusing MANIFEST /home/riverside96/.config/google-chrome/Default/Local Storage/leveldb/MANIFEST-000001
+2022/12/01-15:56:33.341 3 Recovering log #3
+2022/12/01-15:56:33.341 3 Reusing old log /home/riverside96/.config/google-chrome/Default/Local Storage/leveldb/000003.log 
+2022/12/01-15:57:46.939 3 Level-0 table #5: started
+2022/12/01-15:57:46.959 3 Level-0 table #5: 269492 bytes OK
+2022/12/01-15:57:46.963 3 Delete type=0 #3

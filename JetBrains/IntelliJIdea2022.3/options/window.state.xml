@@ -1,0 +1,27 @@
+<application>
+  <component name="DimensionService">
+    <location key="find.popup.1920.0.3840.2160" x="3509" y="120" />
+    <size key="GridCell.Tab.0.left.1920.0.3840.2160" width="3768" height="318" />
+    <size key="GridCell.Tab.0.center.1920.0.3840.2160" width="3768" height="318" />
+    <size key="GridCell.Tab.0.right.1920.0.3840.2160" width="3768" height="318" />
+    <size key="GridCell.Tab.0.bottom.1920.0.3840.2160" width="3768" height="318" />
+    <size key="GridCell.Tab.0.left.0.0.1920.1080" width="1848" height="312" />
+    <size key="GridCell.Tab.0.center.0.0.1920.1080" width="1848" height="312" />
+    <size key="GridCell.Tab.0.right.0.0.1920.1080" width="1848" height="312" />
+    <size key="GridCell.Tab.0.bottom.0.0.1920.1080" width="1848" height="312" />
+    <size key="GridCell.Tab.1.left.1920.0.3840.2160" width="3768" height="817" />
+    <size key="GridCell.Tab.1.center.1920.0.3840.2160" width="3768" height="817" />
+    <size key="GridCell.Tab.1.right.1920.0.3840.2160" width="3768" height="817" />
+    <size key="GridCell.Tab.1.bottom.1920.0.3840.2160" width="3768" height="817" />
+    <size key="find.popup.1920.0.3840.2160" width="796" height="909" />
+  </component>
+  <component name="WindowManager">
+    <frame x="1929" y="-15" width="3822" height="2141" />
+  </component>
+  <component name="WindowStateApplicationService">
+    <state x="4579" y="813" width="428" height="482" key="FileChooserDialogImpl" timestamp="1672762691088">
+      <screen x="1920" y="0" width="3840" height="2160" />
+    </state>
+    <state x="4579" y="813" width="428" height="482" key="FileChooserDialogImpl/0.0.1920.1080/1920.0.3840.2160" timestamp="1672762691088" />
+  </component>
+</application>

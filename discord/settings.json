@@ -1,0 +1,12 @@
+{
+  "IS_MAXIMIZED": false,
+  "IS_MINIMIZED": false,
+  "WINDOW_BOUNDS": {
+    "x": 11,
+    "y": 11,
+    "width": 1898,
+    "height": 1033
+  },
+  "OPEN_ON_STARTUP": false,
+  "enableHardwareAcceleration": false
+}
