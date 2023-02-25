@@ -1,19 +1,11 @@
+lvim.colorscheme = 'marklar'
+-- lvim.colorscheme = 'green'
+vim.o.cmdheight=0
 require 'lspconfig'.clangd.setup {}
 vim.fn.setenv("$OPENAI_API_KEY", "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")
+require("user.keymaps")
 
-
-
-
-
-
-
-
-
-
-
-
-
-
+-- require("lazy").setup(plugins, opts)
 lvim.builtin.project.detection_methods = { "lsp", "pattern" }
 -----------------------------------------------------------
 --cpp tools adaptor definition
@@ -31,8 +23,8 @@ lvim.builtin.project.detection_methods = { "lsp", "pattern" }
 --
 --    name = "Launch file",
 --    type = "cppdbg",
---    request = "launch",
 --    program = function()
+--    requestk = "launch",
 --      return vim.fn.input('Path to executable: ', vim.fn.getcwd() .. '/', 'file')
 --
 --    end,
@@ -63,19 +55,9 @@ metals_config.settings = {
   excludedPackages = { "akka.actor.typed.javadsl", "com.github.swagger.akka.javadsl" },
 }
 
--- *READ THIS*
--- I *highly* recommend setting statusBarProvider to true, however if you do,
--- you *have* to have a setting to display this in your statusline or else
--- you'll not see any messages from metals. There is more info in the help
--- docs about this
--- metals_config.init_options.statusBarProvider = "on"
-
--- Example if you are using cmp how to make sure the correct capabilities for snippets are set
 metals_config.capabilities = require("cmp_nvim_lsp").default_capabilities()
 
--- Debug settings if you're using nvim-dap
 local dap = require("dap")
-
 dap.configurations.scala = {
   {
     type = "scala",
@@ -165,12 +147,30 @@ require("user.dap-ui")
 -----------------------------------------------------------------------------------------------------------
 ---------------------------------------------------------------------------------------------------------------
 
+-- require("lazy").setup({
+--   "folke/which-key.nvim",
+--   { "folke/neoconf.nvim", cmd = "Neoconf" },
+--   "folke/neodev.nvim",
 
-
+-- })
+local packer = require("packer")
 lvim.plugins = {
   {
-    -- {"emilienlemaire/clang-tidy.nvim"},
-    
+    {'vimpostor/vim-tpipeline'},
+    {"untitled-ai/jupyter_ascending.vim"},
+    {"mrjones2014/smart-splits.nvim"},
+    {"michaelb/sniprun"},
+      -- {"emilienlemaire/clang-tidy.nvim"},
+    {"luk400/vim-jukit"},
+    {"leafOfTree/vim-matchtag"},
+    {"onsails/lspkind.nvim"},
+    {'lewis6991/impatient.nvim'},
+
+    {'nyngwang/NeoRoot.lua'},
+
+    {'ray-x/lsp_signature.nvim'},
+
+    {"mattn/emmet-vim"},
     {"iftheshoefritz/solargraph-rails"}, --rails completion
     {"tpope/vim-rails"},                 --rails functions
     {"mfussenegger/nvim-dap-python"},
@@ -197,10 +197,10 @@ lvim.plugins = {
     { "xiyaowong/nvim-transparent" },
     { 'CRAG666/code_runner.nvim', requires = 'nvim-lua/plenary.nvim' },
     { "WhoIsSethDaniel/toggle-lsp-diagnostics.nvim" },
-    { "ray-x/lsp_signature.nvim" },
-    { 'nyngwang/NeoRoot.lua' },
-    { 'lewis6991/impatient.nvim' },
-    {  'notjedi/nvim-rooter.lua',config = function() require'nvim-rooter'.setup() end },
+    -- { "ray-x/lsp_signature.nvim" },
+    -- { 'nyngwang/NeoRoot.lua' },
+    -- { 'lewis6991/impatient.nvim' },
+    -- {  'notjedi/nvim-rooter.lua',config = function() require'nvim-rooter'.setup() end },
     --{'Shatur/neovim-cmake'},
     --{'cdelledonne/vim-cmake'},
     { "theHamsta/nvim-dap-virtual-text" },
@@ -396,7 +396,6 @@ require("nvim-dap-virtual-text").setup {
 
 -----------------------------------------------------------------------------------------------------------
 -- LSP Signature Plugin Setup
-
 local cfg = {
   debug = false, -- set to true to enable debug logging
   log_path = vim.fn.stdpath("cache") .. "/lsp_signature.log", -- log dir when debug is on
@@ -605,10 +604,6 @@ formatters.setup {
 
 -----------------------------------------------------------------------------------------------------------
 -- Keymaps
-
-
-
-
 lvim.leader = "space"
 lvim.keys.normal_mode["<C-s>"] = ":w<cr>"
 -- file running
@@ -654,8 +649,22 @@ lvim.keys.normal_mode["<leader>u"] = ":MagmaEvaluateOperator<cr>"
 -- let g:magma_image_provider = "ueberzug"
 
 
+-- split resizing
+lvim.keys.normal_mode["<C-h>"] = ":SmartResizeLeft<cr>"
+lvim.keys.normal_mode["<C-l>"] = ":SmartResizeRight<cr>"
+lvim.keys.normal_mode["<C-k>"] = ":SmartResizeRight<cr>"
+lvim.keys.normal_mode["<C-j>"] = ":SmartResizeRight<cr>"
 
 
+-- vim.g.jukit_shell_cmd = 'ipython3'
+-- vim.g.jukit_mpl_style = ''
+
+
+vim.g.jukit_mpl_style = '~/.local/share/lunarvim/site/pack/packer/start/vim-jukit/helpers/matplotlib-backend-kitty/backend.mplstyle'
+-- vim.g.jukit_terminal="kitty"
+vim.g.jukit_inline_plotting = 0
+vim.g.jukit_output_new_os_window = 0
+vim.g.jukit_outhist_new_os_window = 0
 
 
 

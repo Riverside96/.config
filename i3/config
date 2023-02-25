@@ -411,7 +411,7 @@ exec --no-startup-id volumeicon
 # exec --no-startup-id xfce4-clipman
 
 # Conky
-exec --no-startup-id conky -c ~/.config/i3/system-overview
+#exec --no-startup-id conky -c ~/.config/i3/system-overview
 
 # feh sets wallpaper
 #exec --no-startup-id feh --bg-scale /home/riverside96/Pictures/wallpapers/pixelart/SpaceWallpaper3840x1344.png  &
@@ -667,12 +667,13 @@ bindsym $mod+y border pixel 1
 bindsym $mod+u border none
 
 # new_window pixel 1
-new_window normal
+default_border normal
 # new_window none
 
 # new_float pixel 1
-new_float normal
+# new_float normal
 # new_float none
+default_floating_border normal
 
 ################# Popups  control                  
 

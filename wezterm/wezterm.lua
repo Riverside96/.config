@@ -1,6 +1,13 @@
 local wezterm = require 'wezterm'
+local act = wezterm.action
 
 return {
+keys = {
+    { key = 'k', mods = 'SHIFT', action = act.ScrollByPage(-1) },
+    { key = 'j', mods = 'SHIFT', action = act.ScrollByPage(1) },
+  },
+  font_size=10,
+  -- enable_scroll_bar=true,
   hide_tab_bar_if_only_one_tab = true,
   window_frame = {
     -- The font used in the tab bar.
@@ -29,5 +36,12 @@ return {
       -- The color of the inactive tab bar edge/divider
       inactive_tab_edge = '#575757',
     },
+  },
+
+  window_padding = {
+    top = 0,
+    right = 3,
+    bottom = 0,
+    left = 3,
   },
 }

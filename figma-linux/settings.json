@@ -1,0 +1,64 @@
+{
+  "clientId": "8d1481d9-4c6f-44dc-9e0d-a7a00e40e827",
+  "userId": "1084073075198847010",
+  "authedUserIDs": [
+    "1084073075198847010"
+  ],
+  "app": {
+    "logLevel": 1,
+    "enableColorSpaceSrgb": false,
+    "visibleNewProjectBtn": true,
+    "useZenity": false,
+    "panelHeight": 40,
+    "saveLastOpenedTabs": true,
+    "exportDir": "/home/riverside96/Pictures/Figma",
+    "fontDirs": [
+      "/usr/share/fonts",
+      "/usr/local/share/fonts",
+      "/run/host/fonts",
+      "/run/host/user-fonts",
+      "/home/riverside96/.local/share/fonts"
+    ],
+    "lastOpenedTabs": [
+      {
+        "title": "figmaproto",
+        "url": "https://www.figma.com/file/UvMyoYbCYR0ecGOQIa3pp8/figmaproto"
+      },
+      {
+        "title": "Fauxica (Community)",
+        "url": "https://www.figma.com/file/NVWVVTdmoClTyaQAG6jidW/Fauxica-(Community)"
+      },
+      {
+        "title": "Fauxica (Community)",
+        "url": "https://www.figma.com/file/NVWVVTdmoClTyaQAG6jidW/Fauxica-(Community)"
+      }
+    ],
+    "featureFlags": {
+      "comments_on_the_canvas": true,
+      "voice_captions_enabled": true,
+      "desktop_disable_cs_prompt": true,
+      "desktop_menu_unification_rollout": true,
+      "paste_to_replace": true,
+      "vector_menu_after_arrange": true,
+      "figjam_miro_import": true,
+      "use_freetype": true,
+      "desktop_always_preload": true,
+      "desktop_disable_accelerators": true,
+      "desktop_new_tab_v2_dev": true,
+      "desktop_new_tab_v2_rollout": true,
+      "desktop_bell_feed_dev": false,
+      "desktop_arm_translation_dialog": true,
+      "desktop_bell_feed_rollout": true,
+      "desktop_file_browser_autorefresh": true,
+      "desktop_push_notifs_mac": true,
+      "desktop_push_notifs_win": true,
+      "desktop_tab_preview_rollout": true
+    },
+    "savedExtensions": []
+  },
+  "theme": {},
+  "ui": {
+    "scalePanel": 1,
+    "scaleFigmaUI": 1
+  }
+}

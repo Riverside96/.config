@@ -21,7 +21,7 @@ set_color normal
 echo
 
 
-starship init fish | source
+# starship init fish | source
 
 
 
@@ -31,7 +31,7 @@ alias pow='eval command sudo $history[1]'
 alias p='devour mpv'
 
 
-
+set -x GDK_BACKEND x11
 export PATH="/home/riverside96/.local/bin:$PATH"
 export PATH="$PATH:$HOME/.local/share/coursier/bin"
 

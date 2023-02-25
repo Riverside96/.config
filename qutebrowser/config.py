@@ -47,6 +47,20 @@ config.bind('<Shift-f>', 'hint links spawn --detach mpv --force-window=immediate
 ## Type: Bool
 c.auto_save.session = True
 
+# c.content.blocking.adblock.lists = [
+    # "https://raw.githubusercontent.com/uBlockOrigin/uAssets/master/filters/annoyances.txt", "https://raw.githubusercontent.com/uBlockOrigin/uAssets/master/filters/badlists.txt", "https://raw.githubusercontent.com/uBlockOrigin/uAssets/master/filters/badware.txt", "https://raw.githubusercontent.com/uBlockOrigin/uAssets/master/filters/filters-2020.txt", "https://raw.githubusercontent.com/uBlockOrigin/uAssets/master/filters/filters-2021.txt", "https://raw.githubusercontent.com/uBlockOrigin/uAssets/master/filters/filters.txt", "https://raw.githubusercontent.com/uBlockOrigin/uAssets/master/filters/privacy.txt", "https://raw.githubusercontent.com/uBlockOrigin/uAssets/master/filters/resource-abuse.txt", "https://raw.githubusercontent.com/uBlockOrigin/uAssets/master/thirdparties/easylist-downloads.adblockplus.org/easyprivacy.txt", "https://raw.githubusercontent.com/uBlockOrigin/uAssets/master/thirdparties/pgl.yoyo.org/as/serverlist", "https://raw.githubusercontent.com/StevenBlack/hosts/master/alternates/fakenews-gambling/hosts", "https://raw.githubusercontent.com/AdAway/adaway.github.io/master/hosts.txt", "https://fanboy.co.nz/fanboy-problematic-sites.txt", "https://easylist.to/easylist/easylist.txt", "https://raw.githubusercontent.com/bogachenko/fuckfuckadblock/master/fuckfuckadblock.txt"
+    # ]
+
+c.content.autoplay = False
+c.content.blocking.method = 'adblock'
+c.content.blocking.adblock.lists = [
+    "https://raw.githubusercontent.com/uBlockOrigin/uAssets/master/filters/annoyances.txt", "https://raw.githubusercontent.com/uBlockOrigin/uAssets/master/filters/badlists.txt", "https://raw.githubusercontent.com/uBlockOrigin/uAssets/master/filters/badware.txt", "https://raw.githubusercontent.com/uBlockOrigin/uAssets/master/filters/filters-2020.txt", "https://raw.githubusercontent.com/uBlockOrigin/uAssets/master/filters/filters-2021.txt", "https://raw.githubusercontent.com/uBlockOrigin/uAssets/master/filters/filters.txt", "https://raw.githubusercontent.com/uBlockOrigin/uAssets/master/filters/privacy.txt", "https://raw.githubusercontent.com/uBlockOrigin/uAssets/master/filters/resource-abuse.txt", "https://raw.githubusercontent.com/uBlockOrigin/uAssets/master/thirdparties/easylist-downloads.adblockplus.org/easyprivacy.txt", "https://raw.githubusercontent.com/uBlockOrigin/uAssets/master/thirdparties/pgl.yoyo.org/as/serverlist", "https://raw.githubusercontent.com/StevenBlack/hosts/master/alternates/fakenews-gambling/hosts", "https://raw.githubusercontent.com/AdAway/adaway.github.io/master/hosts.txt", "https://fanboy.co.nz/fanboy-problematic-sites.txt", "https://easylist.to/easylist/easylist.txt", "https://raw.githubusercontent.com/bogachenko/fuckfuckadblock/master/fuckfuckadblock.txt"
+    ]
+# c.content.blocking.adblock.lists = ['https://gist.githubusercontent.com/BashVie/c01b08c735de75e16ee67f4a527daa47/raw/1578940af5961a2660e84476fff0d9f52d2a5032/blocklist.txt', 'https://easylist.to/easylist/easylist.txt', 'https://easylist.to/easylist/easyprivacy.txt', 'https://easylist.to/easylist/easylist.txt', 'https://pgl.yoyo.org/adservers/serverlist.php?hostformat=hosts&showintro=1&mimetype=plaintext', 'https://raw.githubusercontent.com/uBlockOrigin/uAssets/master/filters/filters.txt']
+# c.content.blocking.method = 'both'  # auto, adblock, hosts, both
+c.content.blocking.enabled = True
+
+
 ## Backend to use to display websites. qutebrowser supports two different
 ## web rendering engines / backends, QtWebEngine and QtWebKit (not
 ## recommended). QtWebEngine is Qt's official successor to QtWebKit, and
@@ -525,7 +539,7 @@ c.auto_save.session = True
 ## `colors.webpage.darkmode.threshold.background` to 205.  - "With
 ## selective inversion of everything": Combines the two variants   above.
 ## Type: Bool
-# c.colors.webpage.darkmode.enabled = False
+# c.colors.webpage.darkmode.enabled = True
 
 ## Render all colors as grayscale. This only has an effect when
 ## `colors.webpage.darkmode.algorithm` is set to `lightness-hsl` or
@@ -2099,12 +2113,18 @@ c.url.searchengines = {
                        'dd'    : 'https://duckduckgo.com/?q={}',
                        'g'     : 'https://github.com/search?q={}',
                        'w'      : 'https://en.wikipedia.org/?search={}',
+                       'i'      : 'https://invidious.epicsite.xyz/search?q={}'
                        }
 ## Page(s) to open at the start.
 ## Type: List of FuzzyUrl, or FuzzyUrl
 
 ## for custom html landing c.url.start_pages = ['file:///path/to/file']
 c.url.start_pages = ['https://app.daily.dev/?utm_source=landing&utm_medium=cta&utm_campaign=landing_conversions']
+
+# config.source('qutebrowser-themes/themes/onedark.py')
+config.source('./base16-qutebrowser/themes/default/base16-tokyo-night-dark.config.py')
+
+
 
 ## URL parameters to strip with `:yank url`.
 ## Type: List of String
@@ -2456,3 +2476,5 @@ c.url.start_pages = ['https://app.daily.dev/?utm_source=landing&utm_medium=cta&u
 # config.bind('Y', 'prompt-accept --save yes', mode='yesno')
 # config.bind('n', 'prompt-accept no', mode='yesno')
 # config.bind('y', 'prompt-accept yes', mode='yesno')
+
+
